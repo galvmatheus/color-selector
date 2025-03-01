@@ -1,4 +1,4 @@
-# PT-BR
+# PT-BR 🇧🇷
 ## Seletor de Cores 🎨
 
 
@@ -32,7 +32,7 @@ R: Após selecionar uma cor, o código hexadecimal é gerado automaticamente. Vo
 R: Você pode usar o código hexadecimal diretamente em programas ou sites de design gráfico, como o **Adobe Photoshop** ou até mesmo no seu **código HTML**.
 
 
-# EN-US
+# EN-US 🇺🇸
 
 ## Color Selector 🎨
 
