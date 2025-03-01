@@ -1,4 +1,4 @@
-# PT-BR 🇧🇷
+# PT-BR <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="30"/> PT-BR
 ## Seletor de Cores 🎨
 
 
@@ -32,7 +32,7 @@ R: Após selecionar uma cor, o código hexadecimal é gerado automaticamente. Vo
 R: Você pode usar o código hexadecimal diretamente em programas ou sites de design gráfico, como o **Adobe Photoshop** ou até mesmo no seu **código HTML**.
 
 
-# EN-US 🇺🇸
+# EN-US <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" width="30"/> EN-US
 
 ## Color Selector 🎨
 
